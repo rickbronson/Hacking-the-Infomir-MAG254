@@ -40,7 +40,7 @@ https://wiki.infomir.eu/eng/set-top-box/stb-linux-webkit/mag250-254-270
 https://wiki.infomir.eu/eng/set-top-box/for-developers/stb-linux-webkit/customization/ssh-change-password-port-disable-enable
 ```
 
-4. You can hook up a serial port (see pictures) but you need to ssh in first and change /etc/inittab from:
+4. You can hook up a serial port (see GND, TX, RX on the 2nd picture below) but you need to ssh in first and change /etc/inittab from:
 
 ```
 ::sysinit:/bin/sh /web.sh
