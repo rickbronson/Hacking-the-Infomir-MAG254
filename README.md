@@ -75,8 +75,8 @@ wget https://iptv-org.github.io/iptv/index.m3u
   Please contact me at rick AT efn DOT org
 
 BottomCase
-![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/blob/master/images/BottomCase.png "BottomCase")
+![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/tree/master/docs/hardware/BottomCase.png "BottomCase")
 BottomSidePC
-![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/blob/master/images/BottomSidePC.png "BottomSidePC")
+![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/tree/master/docs/hardware/BottomSidePC.png "BottomSidePC")
 TopSidePC
-![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/blob/master/images/TopSidePC.png "TopSidePC")
+![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/tree/master/docs/hardware/TopSidePC.png "TopSidePC")
