@@ -29,7 +29,7 @@ ssh root@192.168.2.233 (adjust the address)
 ```
 Password: 930920
 
-2. It has the ability to run either NAND or NAND2 banks. Once I updated it I could only login when running NAND2
+2. It has the ability to run either NAND or NAND2 banks. Once I updated it I could only login when running NAND2.  To change NAND banks, hold down the menu button (lower left of the 4 buttons surrounding the OK button) while rebooting.
 
 3. Links you might find useful
 
