@@ -33,10 +33,12 @@ Password: 930920
 
 3. Links you might find useful
 
+```
 https://soft.infomir.com/mag254/release/
 https://geniptv.net/threads/mag-410.880/page-3
 https://wiki.infomir.eu/eng/set-top-box/stb-linux-webkit/mag250-254-270
 https://wiki.infomir.eu/eng/set-top-box/for-developers/stb-linux-webkit/customization/ssh-change-password-port-disable-enable
+```
 
 4. You can hook up a serial port (see pictures) but you need to ssh in first and change /etc/inittab from:
 
@@ -54,7 +56,9 @@ ttyAS0::respawn:/sbin/getty -L ttyAS0 115200 vt100
 
 5. copying one of the NAND partitions (do this from the MAG254 itself):
 
+```
 dd if=/dev/mtdblock6 | ssh rick@192.168.2.9 "dd of=/home/rick/boards/mag254/mtd6.bin"
+```
 
 6. Trying IPTV
 
@@ -75,8 +79,8 @@ wget https://iptv-org.github.io/iptv/index.m3u
   Please contact me at rick AT efn DOT org
 
 BottomCase
-![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/tree/master/docs/hardware/BottomCase.png "BottomCase")
+![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/blob/master/docs/hardware/BottomCase.png "BottomCase")
 BottomSidePC
-![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/tree/master/docs/hardware/BottomSidePC.png "BottomSidePC")
+![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/blob/master/docs/hardware/BottomSidePC.png "BottomSidePC")
 TopSidePC
-![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/tree/master/docs/hardware/TopSidePC.png "TopSidePC")
+![alt text](https://github.com/rickbronson/Hacking-the-Infomir-MAG254/blob/master/docs/hardware/TopSidePC.png "TopSidePC")
